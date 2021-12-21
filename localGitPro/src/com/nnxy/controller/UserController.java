@@ -1,6 +1,7 @@
 package com.nnxy.controller;
 
 public class UserController {
+	int b=0;
   [branch "master"] 
 	remote = origin 
 	merge = refs/heads/master
